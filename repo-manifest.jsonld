@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/forge-api-demo/commit/99852c17bff8bc4a2bb7a051b50f90a2d07614eb",
       "git:hexsha": "99852c17bff8bc4a2bb7a051b50f90a2d07614eb",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
